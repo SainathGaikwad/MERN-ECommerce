@@ -1,4 +1,4 @@
-# In this MERN project, I have use MongoDB, Express, React, and Node.js. build a responsive and dynamic user interface with React, create a back-end API with Express and Node.js, and store data in a NoSQL database with MongoDB. 
+# In this MERN project, I have use MongoDB, Express, React, and Node.js. build a responsive and dynamic user interface with React, create a back-end API with Express and Node.js, and store data in a NoSQL database with MongoDB (ADMIN PANEL INCLUDED). 
 
 # LOGIN Page
 ![login](https://github.com/SainathGaikwad/MERN-ECommerce/assets/89898283/2692a69d-3a28-4bd5-9ee3-1f4320697e28)
